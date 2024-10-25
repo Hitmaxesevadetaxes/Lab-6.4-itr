@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\HP\source\repos\lab 6.4 itr\lab 6.4 itr\Source.cpp(43,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\HP\source\repos\lab 6.4 itr\lab 6.4 itr\Source.cpp(46,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\HP\source\repos\lab 6.4 itr\UnitTest1\x64\Debug\UnitTest1.lib and object C:\Users\HP\source\repos\lab 6.4 itr\UnitTest1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\HP\source\repos\lab 6.4 itr\UnitTest1\x64\Debug\UnitTest1.dll

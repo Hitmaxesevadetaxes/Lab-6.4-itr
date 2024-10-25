@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\lab 6.4 itr\lab 6.4 itr\Source.cpp(43,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\source\repos\lab 6.4 itr\lab 6.4 itr\Source.cpp(46,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  lab 6.4 itr.vcxproj -> C:\Users\HP\source\repos\lab 6.4 itr\x64\Debug\lab 6.4 itr.exe
